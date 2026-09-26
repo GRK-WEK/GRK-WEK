@@ -1,7 +1,7 @@
 <div align="center">
 ![My Bears](./assets/bears-banner.png)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=GARRICK%20DICKENS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GRK-WEK%20•%20he/him%20•%20We%20Bare%20Bears%20Energy%20🐻&descAlignY=62&descSize=18" />
+
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=GARRICK%20DICKENS&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GRK-WEK%20•%20he/him%20•%20We%20Bare%20Bears%20Energy%20🐻&descAlignY=62&descSize=18" />
 
