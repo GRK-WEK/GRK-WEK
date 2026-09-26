@@ -1,5 +1,5 @@
 <div align="center">
-![My Bears](./assets/bears-banner.png)
+
 
 
 <!-- HEADER BANNER -->
